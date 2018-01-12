@@ -56,6 +56,8 @@ u8 mp3DevicesInit(void)
     //初始化串口  USART1   ->   57600
     //初始化外部SRAM
     FSMC_SRAM_init();
+    //初始化音频解码芯片VS1003
+    briupVs1003Init();
     
     briupUsart1Init(57600);
     //初始化液晶屏  ILI9486
