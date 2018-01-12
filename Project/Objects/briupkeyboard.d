@@ -1,0 +1,16 @@
+.\objects\briupkeyboard.o: ..\devices\src\briupKeyboard.c
+.\objects\briupkeyboard.o: ..\devices\inc\briupKeyboard.h
+.\objects\briupkeyboard.o: ..\StdPeriphLibraries\DeviceSupport\stm32f10x.h
+.\objects\briupkeyboard.o: ..\StdPeriphLibraries\CoreSupport\core_cm3.h
+.\objects\briupkeyboard.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\briupkeyboard.o: ..\StdPeriphLibraries\DeviceSupport\system_stm32f10x.h
+.\objects\briupkeyboard.o: ..\StdPeriphLibraries\DeviceSupport\stm32f10x_conf.h
+.\objects\briupkeyboard.o: ..\StdPeriphLibraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\objects\briupkeyboard.o: ..\StdPeriphLibraries\DeviceSupport\stm32f10x.h
+.\objects\briupkeyboard.o: ..\StdPeriphLibraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\objects\briupkeyboard.o: ..\devices\inc\briupNVIC.h
+.\objects\briupkeyboard.o: ..\devices\inc\briupBasePeriph.h
+.\objects\briupkeyboard.o: ..\devices\inc\briupDelay.h
+.\objects\briupkeyboard.o: ..\devices\inc\briupTIM2.h
+.\objects\briupkeyboard.o: ..\devices\inc\briupUsart.h
+.\objects\briupkeyboard.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

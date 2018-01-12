@@ -1,0 +1,10 @@
+.\objects\briupnvic.o: ..\devices\src\briupNVIC.c
+.\objects\briupnvic.o: ..\devices\inc\briupNVIC.h
+.\objects\briupnvic.o: ..\StdPeriphLibraries\DeviceSupport\stm32f10x.h
+.\objects\briupnvic.o: ..\StdPeriphLibraries\CoreSupport\core_cm3.h
+.\objects\briupnvic.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\briupnvic.o: ..\StdPeriphLibraries\DeviceSupport\system_stm32f10x.h
+.\objects\briupnvic.o: ..\StdPeriphLibraries\DeviceSupport\stm32f10x_conf.h
+.\objects\briupnvic.o: ..\StdPeriphLibraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\objects\briupnvic.o: ..\StdPeriphLibraries\DeviceSupport\stm32f10x.h
+.\objects\briupnvic.o: ..\StdPeriphLibraries\STM32F10x_StdPeriph_Driver\inc\misc.h

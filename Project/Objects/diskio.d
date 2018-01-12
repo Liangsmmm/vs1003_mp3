@@ -1,0 +1,14 @@
+.\objects\diskio.o: ..\fatfs\src\diskio.c
+.\objects\diskio.o: ..\fatfs\src\diskio.h
+.\objects\diskio.o: ..\fatfs\src\integer.h
+.\objects\diskio.o: ..\fatfs\src\sdio.h
+.\objects\diskio.o: ..\StdPeriphLibraries\DeviceSupport\stm32f10x.h
+.\objects\diskio.o: ..\StdPeriphLibraries\CoreSupport\core_cm3.h
+.\objects\diskio.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\diskio.o: ..\StdPeriphLibraries\DeviceSupport\system_stm32f10x.h
+.\objects\diskio.o: ..\StdPeriphLibraries\DeviceSupport\stm32f10x_conf.h
+.\objects\diskio.o: ..\StdPeriphLibraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\objects\diskio.o: ..\StdPeriphLibraries\DeviceSupport\stm32f10x.h
+.\objects\diskio.o: ..\StdPeriphLibraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\objects\diskio.o: ..\devices\inc\briupDelay.h
+.\objects\diskio.o: ..\fatfs\src\malloc.h

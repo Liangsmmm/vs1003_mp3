@@ -1,0 +1,14 @@
+.\objects\briupfsmc.o: ..\devices\src\briupFSMC.c
+.\objects\briupfsmc.o: ..\devices\inc\briupFSMC.h
+.\objects\briupfsmc.o: ..\StdPeriphLibraries\DeviceSupport\stm32f10x.h
+.\objects\briupfsmc.o: ..\StdPeriphLibraries\CoreSupport\core_cm3.h
+.\objects\briupfsmc.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\briupfsmc.o: ..\StdPeriphLibraries\DeviceSupport\system_stm32f10x.h
+.\objects\briupfsmc.o: ..\StdPeriphLibraries\DeviceSupport\stm32f10x_conf.h
+.\objects\briupfsmc.o: ..\StdPeriphLibraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\objects\briupfsmc.o: ..\StdPeriphLibraries\DeviceSupport\stm32f10x.h
+.\objects\briupfsmc.o: ..\StdPeriphLibraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\objects\briupfsmc.o: ..\devices\inc\briupNVIC.h
+.\objects\briupfsmc.o: ..\devices\inc\briupDelay.h
+.\objects\briupfsmc.o: ..\devices\inc\briupUsart.h
+.\objects\briupfsmc.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
